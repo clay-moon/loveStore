@@ -29,4 +29,4 @@ npm run build
 ![image](https://user-images.githubusercontent.com/90896142/158964499-45df5ecf-c9aa-4edf-ae05-5d675462f606.png)
 ![image](https://user-images.githubusercontent.com/90896142/158964812-094934e2-2158-4e82-b4ac-4f2c898d9e0d.png)
 ![image](https://user-images.githubusercontent.com/90896142/158970508-ae22da7d-d092-4248-b4ef-85903253a42e.png)
-![image](https://user-images.githubusercontent.com/90896142/158970328-a6130469-42a1-4d0a-a642-3bf12d41877b.png)
+
