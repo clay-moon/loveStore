@@ -1,23 +1,24 @@
-                                                                      ### manage_system
+                                                                      ###manage_system
 ### 安装
 ##项目地址
 ```
-git clone
-```
-## 安装依赖
-```
-npm install
+git clone git@github.com:clay-moon/Recode_System.git
 ```
 ## 进入文件夹
 ```
 cd Recode_System
 ```
-### Compiles and hot-reloads for development
+## 安装依赖
+```
+npm install
+```
+
+### 运行开发版本
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 运行生产版本
 ```
 npm run build
 ```
