@@ -1,6 +1,7 @@
-#### Recode_system
-安装
-##项目地址
+Recode_system
+=
+### 安装
+## 项目地址
 ```
 git clone git@github.com:clay-moon/Recode_System.git
 ```
@@ -12,13 +13,11 @@ cd Recode_System
 ```
 npm install
 ```
-
-### 运行开发版本
+## 运行开发版本
 ```
 npm run serve
 ```
-
-### 运行生产版本
+## 运行生产版本
 ```
 npm run build
 ```
