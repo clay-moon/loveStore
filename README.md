@@ -1,5 +1,5 @@
-                                                                      ###manage_system
-### 安装
+#### Recode_system
+安装
 ##项目地址
 ```
 git clone git@github.com:clay-moon/Recode_System.git
@@ -23,20 +23,3 @@ npm run serve
 npm run build
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
